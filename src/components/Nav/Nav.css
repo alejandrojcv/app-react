@@ -1,0 +1,19 @@
+.nav {
+    align-items: center;
+    align-content: center;
+    justify-content: space-around;
+}
+
+.nav-bar {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 5rem;
+
+}
+
+
+a {
+    text-decoration: none;
+}

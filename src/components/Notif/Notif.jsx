@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { Toast, Button  } from 'react-bootstrap'
 export default function ToastComponent() {
+  
   const [showToast, setToast] = useState(false)
   return (
     <div>
@@ -21,3 +22,5 @@ export default function ToastComponent() {
     </div>
   )
 }
+
+

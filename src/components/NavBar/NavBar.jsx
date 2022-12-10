@@ -19,12 +19,6 @@ function NavBar() {
             style={{ maxHeight: '100px' }}
             navbarScroll
           >
-            <Nav.Link href="#action1">Home</Nav.Link>
-            <Nav.Link href="#action2">Freeskates</Nav.Link>
-            <Nav.Link href="#action3">Aggressive</Nav.Link>
-            <Nav.Link href="#action4">Fitness</Nav.Link>
-            <Nav.Link href="#action5">Contact</Nav.Link>
-            <Nav.Link href="#action6">About Us</Nav.Link>
           </Nav>
           <a href="#action">
             <CarWidget />
