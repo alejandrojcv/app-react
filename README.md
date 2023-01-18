@@ -1,3 +1,25 @@
+## Tienda Rollers - Curso React Coder House
+
+### Selecciona las diferentes categorias para visualizar los distintos tipos de productos
+
+
+El desarrollo consiste en una tienda de rollers, cuyo objetivo es comercializar los distintos tipos de rollers diferenciados pro las siguientes categorias: Freeskates, Aggresive, Fitness.
+Ademas cuenta con con un Home donde se pueden visualizar una lista de productos de diversas categorias, y un buscador de productos.
+
+![example](./public/example.gif)
+
+
+### ** Lenguajes y Tecnologías utilizadas**
+
+El código fue realizado en React  Js, HTML, CSS Y Javascript..
+Comandos utilizados para instalar dependencias durante el desarrollo:
+npm install react-scripts 
+npm i react-router-dom 
+npm install firebase 
+
+
+## Getting Started with Create React App
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
